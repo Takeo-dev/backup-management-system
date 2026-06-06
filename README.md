@@ -30,7 +30,9 @@ A Java Swing desktop application integrated with MySQL that allows users to mana
 </p>
 
 ### Dashboard
-![Dashboard](src/images/DashBoard.png)
+<p align="center">
+ <img src="src/images/DashBoard.png" width="45%" />
+</p>
 
 ### Add Backup
 <p align="center">
